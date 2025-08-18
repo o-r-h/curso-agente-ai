@@ -140,8 +140,3 @@
 5. Herramientas.
 6. Agentes autónomos.
 7. Despliegue.
-
----
-
-Si quieres, puedo también hacerte **un mapa visual** del plan de estudio para que veas cómo cada nivel conecta con el siguiente y qué librerías usar en cada paso. Así tendrías como una “hoja de ruta” gráfica para aprender agentes de IA.
-¿Quieres que te lo prepare?
