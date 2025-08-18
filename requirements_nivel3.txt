@@ -1,0 +1,14 @@
+# Requisitos para Nivel 3 – Memoria en agentes (Notebook)
+# Nota: puedes fijar versiones exactas si tu entorno lo requiere.
+langchain>=0.2.0
+langchain-openai>=0.1.7
+sentence-transformers>=2.5.1
+faiss-cpu>=1.8.0.post1
+chromadb>=0.5.0
+sqlite-utils>=3.36
+tiktoken>=0.7.0
+rank-bm25>=0.2.2  # opcional (recuperación híbrida)
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+jupyterlab>=4.2
